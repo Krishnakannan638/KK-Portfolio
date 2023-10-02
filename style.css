@@ -1156,3 +1156,11 @@ footer a i {
     }
 
 }
+@media(max-width:400px) {
+    .home-content h1 {
+        font-size: 1.7rem;
+    }
+    .btn-box{
+        width: 310px;
+    }
+}
